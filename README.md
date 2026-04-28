@@ -25,6 +25,7 @@ python main.py
 ## Output
 - Prints summary stats to the terminal
 - Saves `expense_report.png` with both charts
+  
 
 ## Sample output
 ```
@@ -32,6 +33,8 @@ Total spent   : $882.74
 Monthly avg   : $294.25
 Top category  : Food
 ```
+<img width="1097" height="553" alt="image" src="https://github.com/user-attachments/assets/5d1b22b2-c788-4ab5-bdd4-8aea61942a5b" />
+
 
 ## Author
 Antonio de Jesus Ruiz Campos — built as part of a data analysis portfolio.
